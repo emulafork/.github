@@ -1,5 +1,5 @@
 # Ankama
-- [Ankama Launcher Bêta](https://github.com/emulafork/Dofus.AnkamaLauncher_Beta) | Original : [AlpaGit/AnkamaLauncher_Beta](https://github.com/AlpaGit/AnkamaLauncher_Beta)
+- [Ankama Launcher Bêta](https://github.com/emulafork/Dofus.AnkamaLauncher_Beta) | Original : [Skinz3/AnkamaLauncher_Beta](https://github.com/Skinz3/AnkamaLauncher_Beta) based on [AlpaGit/AnkamaLauncher_Beta](https://github.com/AlpaGit/AnkamaLauncher_Beta)
 - [Open Dofus Wiki](https://github.com/emulafork/Dofus.OpenWiki) | Original : [Un1k0rn/wiki](https://github.com/Un1k0rn/wiki) based on [Skinz3/wiki](https://github.com/Skinz3/wiki)
 ## Dofus 2.63
 - [Giny](https://github.com/emulafork/Dofus.Giny) | Original : [Skinz3/Giny](https://github.com/Skinz3/Giny/tree/2.63)
