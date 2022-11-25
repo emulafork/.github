@@ -6,3 +6,5 @@
 - [GinyCore](https://github.com/emulafork/Dofus.GinyCore) | Original : [Skinz3/GinyCore](https://github.com/Skinz3/GinyCore)
 ## Dofus 2.38
 - [Symbioz](https://github.com/emulafork/Dofus.Symbioz) | Original : [Skinz3/Symbioz-2.38](https://github.com/Skinz3/Symbioz-2.38)
+## Dofus Retro
+- [PyLangGetter](https://github.com/emulafork/DRetro.PyLangGetter) | Original : [Dysta/PyLangGetter](https://github.com/Dysta/PyLangGetter)
